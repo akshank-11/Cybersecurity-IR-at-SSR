@@ -1,4 +1,4 @@
-# SSR--Cybersecurity-Transformation-
+# SSR Inc. - Cybersecurity Transformation Strategy
 Cybersecurity Transformation at SSR: Business Case Analysis      
 
 SSR Inc. is new firm  formed from a merger of three distinct companies each specializing in a different sector. Despite the success of the organization, they initially struggled to implement an IT department. Since, they have continued a solid position in their industry and have organized their IT systems sufficiently.
